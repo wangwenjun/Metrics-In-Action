@@ -1,4 +1,4 @@
-package com.wangwenjun.metrics.metric;
+package com.wangwenjun.metrics.metric.meter;
 
 import com.codahale.metrics.ConsoleReporter;
 import com.codahale.metrics.Meter;

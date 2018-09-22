@@ -1,4 +1,4 @@
-package com.wangwenjun.metrics.metric;
+package com.wangwenjun.metrics.metric.gauge;
 
 import com.codahale.metrics.CachedGauge;
 import com.codahale.metrics.ConsoleReporter;
