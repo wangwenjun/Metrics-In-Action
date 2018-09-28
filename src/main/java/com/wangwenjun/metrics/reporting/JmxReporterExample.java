@@ -6,12 +6,6 @@ import java.util.concurrent.TimeUnit;
 
 import static java.util.concurrent.ThreadLocalRandom.current;
 
-//success rate
-//total business
-//total success
-//total failure
-//timer
-//volume bytes
 public class JmxReporterExample
 {
     private final static MetricRegistry registry = new MetricRegistry();
