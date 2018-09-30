@@ -1,0 +1,6 @@
+type=GAUGE, name=cloud-disk-upload-suc-rate, value=0.8936170212765957
+type=COUNTER, name=cloud-disk-upload-failure, count=4
+type=COUNTER, name=cloud-disk-upload-success, count=42
+type=COUNTER, name=cloud-disk-upload-total, count=47
+type=HISTOGRAM, name=cloud-disk-upload-volume, count=42, min=330, max=9783, mean=4264.583356157646, stddev=2602.0424962933444, median=4323.0, p75=5464.0, p95=9339.0, p98=9783.0, p99=9783.0, p999=9783.0
+type=TIMER, name=cloud-disk-upload-frequency, count=46, min=9.4504E-5, max=0.313896212, mean=0.19258660169066055, stddev=0.06543766852143366, median=0.200006414, p75=0.209047622, p95=0.269159274, p98=0.313896212, p99=0.313896212, p999=0.313896212, mean_rate=4.5079202711730115, m1=4.079955585370677, m5=4.016528546178383, m15=4.0055401519951035, rate_unit=events/second, duration_unit=seconds

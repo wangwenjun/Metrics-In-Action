@@ -6,7 +6,11 @@
 
     <groupId>Metrics-In-Action</groupId>
     <artifactId>Metrics-In-Action</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>metrics</module>
+    </modules>
 
     <dependencies>
         <dependency>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Metrics-In-Action.iml" filepath="$PROJECT_DIR$/Metrics-In-Action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metrics/metrics.iml" filepath="$PROJECT_DIR$/metrics/metrics.iml" />
     </modules>
   </component>
 </project>
